@@ -1,4 +1,5 @@
-# Training neural networks can be very confusing!
+# Designing Your Neural Networks:
+## A Step by Step Walkthrough
 
 What’s a good learning rate? How many hidden layers should your network have? Is dropout actually useful? Why are your gradients vanishing?
 
