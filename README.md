@@ -11,4 +11,8 @@ We’ll also see how we can use Weights and Biases inside Kaggle kernels to moni
 
 I made a quick **demo** to walk you through this kernel: https://www.loom.com/share/fb64035e4576467489cf0f2ad9cff92a.
 
+## Slides
+If you found this repo via one of my talks, here's a link to the **[slides.](https://www.slideshare.net/LavanyaShukla/designing-your-neural-networks-a-step-by-step-walkthrough/)**
+
+## Get In Touch
 If you have any more questions or feedback, please don't hesitate to [message me](https://twitter.com/lavanyaai)!
